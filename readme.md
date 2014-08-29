@@ -25,4 +25,4 @@ How to use
 
 Or
 --
-Just use the files I already generate for you.
+Just use the files I have already generated for you.

@@ -1,4 +1,4 @@
-Leetcode Template 
+Leetcode Template
 =================
 This is a crawler script for leetcode.
 (currently only support python and java )
@@ -18,5 +18,7 @@ Thank you!
 How to use
 ----------
 1. you have to have python. 2.x
-2. run `python main.py`
-3. choose the programming language you prefer 
+2. make sure you have `pip`
+3. run `pip install -r requirements.txt`
+4. run `python main.py`
+5. choose the programming language you prefer

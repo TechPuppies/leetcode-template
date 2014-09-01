@@ -22,3 +22,7 @@ How to use
 3. run `pip install -r requirements.txt`
 4. run `python main.py`
 5. choose the programming language you prefer
+
+Or
+--
+Just use the files I have already generated for you.

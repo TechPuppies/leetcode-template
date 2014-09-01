@@ -1,3 +1,4 @@
+# coding=utf-8
 # AC Rate: 21.1%
 # SOURCE URL: https://oj.leetcode.com/problems/largest-rectangle-in-histogram/
 # 

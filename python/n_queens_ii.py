@@ -1,3 +1,4 @@
+# coding=utf-8
 # AC Rate: 33.2%
 # SOURCE URL: https://oj.leetcode.com/problems/n-queens-ii/
 # 

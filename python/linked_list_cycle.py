@@ -1,3 +1,4 @@
+# coding=utf-8
 # AC Rate: 35.8%
 # SOURCE URL: https://oj.leetcode.com/problems/linked-list-cycle/
 # 

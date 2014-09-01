@@ -1,4 +1,5 @@
-# AC Rate: 30.4%
+# coding=utf-8
+# AC Rate: 30.5%
 # SOURCE URL: https://oj.leetcode.com/problems/pascals-triangle-ii/
 # 
 # Given an index k, return the kth row of the Pascal's triangle.

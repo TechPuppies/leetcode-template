@@ -1,3 +1,4 @@
+# coding=utf-8
 # AC Rate: 25.5%
 # SOURCE URL: https://oj.leetcode.com/problems/gas-station/
 # 

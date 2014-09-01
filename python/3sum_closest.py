@@ -1,3 +1,4 @@
+# coding=utf-8
 # AC Rate: 27.1%
 # SOURCE URL: https://oj.leetcode.com/problems/3sum-closest/
 # 

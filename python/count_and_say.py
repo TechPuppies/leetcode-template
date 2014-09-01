@@ -1,3 +1,4 @@
+# coding=utf-8
 # AC Rate: 27.2%
 # SOURCE URL: https://oj.leetcode.com/problems/count-and-say/
 # 

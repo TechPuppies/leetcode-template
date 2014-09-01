@@ -1,3 +1,4 @@
+# coding=utf-8
 # AC Rate: 26.4%
 # SOURCE URL: https://oj.leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/
 # 

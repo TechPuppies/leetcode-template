@@ -1,4 +1,5 @@
-# AC Rate: 25.2%
+# coding=utf-8
+# AC Rate: 25.3%
 # SOURCE URL: https://oj.leetcode.com/problems/insertion-sort-list/
 # 
 # Sort a linked list using insertion sort.

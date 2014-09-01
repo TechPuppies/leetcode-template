@@ -1,3 +1,4 @@
+# coding=utf-8
 # AC Rate: 29.6%
 # SOURCE URL: https://oj.leetcode.com/problems/minimum-depth-of-binary-tree/
 # 

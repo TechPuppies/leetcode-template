@@ -1,3 +1,4 @@
+# coding=utf-8
 # AC Rate: 20.5%
 # SOURCE URL: https://oj.leetcode.com/problems/multiply-strings/
 # 

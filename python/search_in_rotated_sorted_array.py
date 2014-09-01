@@ -1,4 +1,5 @@
-# AC Rate: 28.7%
+# coding=utf-8
+# AC Rate: 28.6%
 # SOURCE URL: https://oj.leetcode.com/problems/search-in-rotated-sorted-array/
 # 
 # Suppose a sorted array is rotated at some pivot unknown to you beforehand.

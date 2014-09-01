@@ -1,3 +1,4 @@
+# coding=utf-8
 # AC Rate: 36.4%
 # SOURCE URL: https://oj.leetcode.com/problems/unique-binary-search-trees/
 # 

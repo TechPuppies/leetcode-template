@@ -1,4 +1,5 @@
-# AC Rate: 20.5%
+# coding=utf-8
+# AC Rate: 20.4%
 # SOURCE URL: https://oj.leetcode.com/problems/sort-list/
 # 
 # Sort a linked list in O(n log n) time using constant space complexity.

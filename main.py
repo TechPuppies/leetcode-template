@@ -29,10 +29,11 @@ class DownloadThread(threading.Thread):
             subps_html = urllib2.urlopen(
                 "https://oj.leetcode.com" + url).read()
             subps = BeautifulSoup(subps_html)
-            res = [COMMENT_MARK + ' AC Rate: ' + rate.encode('utf-8'),
+            res = [COMMENT_MARK + ' coding=utf-8',
+                   COMMENT_MARK + ' AC Rate: ' + rate.encode('utf-8'),
                    COMMENT_MARK + ' SOURCE URL: https://oj.leetcode.com' + url.encode('utf-8')]
             subps = BeautifulSoup(subps_html)
-            for i in subps.find_all('div', class_='question-content')[0].text.split('\n'):
+            for i in subps.find_all('div', class_='question-content')[0].text.replace('\r', '').split('\n'):
                 res.append(COMMENT_MARK + ' %s' % i.encode('utf-8'))
 
             codes = re.findall(
@@ -42,7 +43,8 @@ class DownloadThread(threading.Thread):
                 .replace('\u003C', '<')
                 .replace('\u003E', '>')
                 .replace('\u003D', '=')
-                .replace('\u002D', '-'))
+                .replace('\u002D', '-')
+                .replace('\r', ''))
             pyfile.write('\n'.join(res))
 
 

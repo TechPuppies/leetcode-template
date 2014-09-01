@@ -1,3 +1,4 @@
+# coding=utf-8
 # AC Rate: 25.0%
 # SOURCE URL: https://oj.leetcode.com/problems/permutations-ii/
 # 

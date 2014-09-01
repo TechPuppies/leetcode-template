@@ -1,4 +1,5 @@
-# AC Rate: 25.9%
+# coding=utf-8
+# AC Rate: 26.0%
 # SOURCE URL: https://oj.leetcode.com/problems/reverse-linked-list-ii/
 # 
 # 

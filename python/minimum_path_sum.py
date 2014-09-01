@@ -1,3 +1,4 @@
+# coding=utf-8
 # AC Rate: 31.2%
 # SOURCE URL: https://oj.leetcode.com/problems/minimum-path-sum/
 # 

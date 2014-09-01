@@ -1,3 +1,4 @@
+# coding=utf-8
 # AC Rate: 33.3%
 # SOURCE URL: https://oj.leetcode.com/problems/merge-two-sorted-lists/
 # 

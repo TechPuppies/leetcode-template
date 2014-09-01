@@ -1,3 +1,4 @@
+# coding=utf-8
 # AC Rate: 29.8%
 # SOURCE URL: https://oj.leetcode.com/problems/sum-root-to-leaf-numbers/
 # 

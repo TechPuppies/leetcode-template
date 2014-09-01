@@ -1,4 +1,5 @@
-# AC Rate: 18.0%
+# coding=utf-8
+# AC Rate: 17.9%
 # SOURCE URL: https://oj.leetcode.com/problems/minimum-window-substring/
 # 
 # 

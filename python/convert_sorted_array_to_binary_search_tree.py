@@ -1,3 +1,4 @@
+# coding=utf-8
 # AC Rate: 32.6%
 # SOURCE URL: https://oj.leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
 # 

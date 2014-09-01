@@ -1,3 +1,4 @@
+# coding=utf-8
 # AC Rate: 10.9%
 # SOURCE URL: https://oj.leetcode.com/problems/max-points-on-a-line/
 # 

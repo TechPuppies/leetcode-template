@@ -1,3 +1,4 @@
+# coding=utf-8
 # AC Rate: 20.7%
 # SOURCE URL: https://oj.leetcode.com/problems/longest-palindromic-substring/
 # 

@@ -1,3 +1,4 @@
+# coding=utf-8
 # AC Rate: 32.4%
 # SOURCE URL: https://oj.leetcode.com/problems/remove-duplicates-from-sorted-array/
 # 

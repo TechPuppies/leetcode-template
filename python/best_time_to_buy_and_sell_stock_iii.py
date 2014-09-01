@@ -1,4 +1,5 @@
-# AC Rate: 22.3%
+# coding=utf-8
+# AC Rate: 22.2%
 # SOURCE URL: https://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/
 # 
 # Say you have an array for which the ith element is the price of a given stock on day i.

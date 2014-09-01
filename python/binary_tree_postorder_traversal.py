@@ -1,3 +1,4 @@
+# coding=utf-8
 # AC Rate: 31.0%
 # SOURCE URL: https://oj.leetcode.com/problems/binary-tree-postorder-traversal/
 # 

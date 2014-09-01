@@ -1,4 +1,5 @@
-# AC Rate: 19.8%
+# coding=utf-8
+# AC Rate: 19.9%
 # SOURCE URL: https://oj.leetcode.com/problems/regular-expression-matching/
 # 
 # Implement regular expression matching with support for '.' and '*'.

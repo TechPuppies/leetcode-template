@@ -1,3 +1,4 @@
+# coding=utf-8
 # AC Rate: 35.3%
 # SOURCE URL: https://oj.leetcode.com/problems/populating-next-right-pointers-in-each-node/
 # 

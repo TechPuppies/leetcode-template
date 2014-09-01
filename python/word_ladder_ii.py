@@ -1,4 +1,5 @@
-# AC Rate: 11.3%
+# coding=utf-8
+# AC Rate: 11.2%
 # SOURCE URL: https://oj.leetcode.com/problems/word-ladder-ii/
 # 
 # 

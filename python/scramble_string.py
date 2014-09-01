@@ -1,3 +1,4 @@
+# coding=utf-8
 # AC Rate: 22.6%
 # SOURCE URL: https://oj.leetcode.com/problems/scramble-string/
 # 

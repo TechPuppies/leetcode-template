@@ -1,4 +1,5 @@
-# AC Rate: 19.9%
+# coding=utf-8
+# AC Rate: 19.8%
 # SOURCE URL: https://oj.leetcode.com/problems/simplify-path/
 # 
 # Given an absolute path for a file (Unix-style), simplify it.

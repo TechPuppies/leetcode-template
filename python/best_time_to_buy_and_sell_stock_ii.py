@@ -1,3 +1,4 @@
+# coding=utf-8
 # AC Rate: 36.8%
 # SOURCE URL: https://oj.leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/
 # 

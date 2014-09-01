@@ -1,4 +1,5 @@
-# AC Rate: 42.2%
+# coding=utf-8
+# AC Rate: 42.1%
 # SOURCE URL: https://oj.leetcode.com/problems/same-tree/
 # 
 # 

@@ -1,3 +1,4 @@
+# coding=utf-8
 # AC Rate: 28.7%
 # SOURCE URL: https://oj.leetcode.com/problems/trapping-rain-water/
 # 

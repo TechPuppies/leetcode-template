@@ -1,3 +1,4 @@
+# coding=utf-8
 # AC Rate: 16.0%
 # SOURCE URL: https://oj.leetcode.com/problems/decode-ways/
 # 

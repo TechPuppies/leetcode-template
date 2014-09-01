@@ -1,4 +1,5 @@
-# AC Rate: 32.5%
+# coding=utf-8
+# AC Rate: 32.4%
 # SOURCE URL: https://oj.leetcode.com/problems/swap-nodes-in-pairs/
 # 
 # 

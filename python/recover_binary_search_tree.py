@@ -1,3 +1,4 @@
+# coding=utf-8
 # AC Rate: 23.5%
 # SOURCE URL: https://oj.leetcode.com/problems/recover-binary-search-tree/
 # 

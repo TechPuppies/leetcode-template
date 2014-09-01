@@ -1,3 +1,4 @@
+# coding=utf-8
 # AC Rate: 30.9%
 # SOURCE URL: https://oj.leetcode.com/problems/binary-tree-level-order-traversal/
 # 

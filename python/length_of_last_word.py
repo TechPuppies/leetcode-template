@@ -1,3 +1,4 @@
+# coding=utf-8
 # AC Rate: 29.3%
 # SOURCE URL: https://oj.leetcode.com/problems/length-of-last-word/
 # 

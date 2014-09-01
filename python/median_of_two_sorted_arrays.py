@@ -1,3 +1,4 @@
+# coding=utf-8
 # AC Rate: 17.3%
 # SOURCE URL: https://oj.leetcode.com/problems/median-of-two-sorted-arrays/
 # 

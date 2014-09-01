@@ -1,3 +1,4 @@
+# coding=utf-8
 # AC Rate: 27.4%
 # SOURCE URL: https://oj.leetcode.com/problems/search-for-a-range/
 # 

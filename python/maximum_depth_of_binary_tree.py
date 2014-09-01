@@ -1,3 +1,4 @@
+# coding=utf-8
 # AC Rate: 43.9%
 # SOURCE URL: https://oj.leetcode.com/problems/maximum-depth-of-binary-tree/
 # 

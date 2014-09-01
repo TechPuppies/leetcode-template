@@ -1,3 +1,4 @@
+# coding=utf-8
 # AC Rate: 13.9%
 # SOURCE URL: https://oj.leetcode.com/problems/lru-cache/
 # 

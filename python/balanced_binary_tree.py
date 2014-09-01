@@ -1,4 +1,5 @@
-# AC Rate: 32.6%
+# coding=utf-8
+# AC Rate: 32.7%
 # SOURCE URL: https://oj.leetcode.com/problems/balanced-binary-tree/
 # 
 # Given a binary tree, determine if it is height-balanced.

@@ -1,3 +1,4 @@
+# coding=utf-8
 # AC Rate: 18.0%
 # SOURCE URL: https://oj.leetcode.com/problems/substring-with-concatenation-of-all-words/
 # 

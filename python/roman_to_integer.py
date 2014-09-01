@@ -1,4 +1,5 @@
-# AC Rate: 33.9%
+# coding=utf-8
+# AC Rate: 33.8%
 # SOURCE URL: https://oj.leetcode.com/problems/roman-to-integer/
 # 
 # Given a roman numeral, convert it to an integer.

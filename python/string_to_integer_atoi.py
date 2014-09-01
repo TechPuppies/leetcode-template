@@ -1,3 +1,4 @@
+# coding=utf-8
 # AC Rate: 14.6%
 # SOURCE URL: https://oj.leetcode.com/problems/string-to-integer-atoi/
 # 

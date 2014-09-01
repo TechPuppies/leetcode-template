@@ -1,4 +1,5 @@
-# AC Rate: 31.5%
+# coding=utf-8
+# AC Rate: 31.6%
 # SOURCE URL: https://oj.leetcode.com/problems/plus-one/
 # 
 # Given a non-negative number represented as an array of digits, plus one to the number.

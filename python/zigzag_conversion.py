@@ -1,3 +1,4 @@
+# coding=utf-8
 # AC Rate: 23.8%
 # SOURCE URL: https://oj.leetcode.com/problems/zigzag-conversion/
 # 

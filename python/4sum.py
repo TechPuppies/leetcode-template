@@ -1,3 +1,4 @@
+# coding=utf-8
 # AC Rate: 21.5%
 # SOURCE URL: https://oj.leetcode.com/problems/4sum/
 # 

@@ -1,4 +1,5 @@
-# AC Rate: 30.6%
+# coding=utf-8
+# AC Rate: 30.7%
 # SOURCE URL: https://oj.leetcode.com/problems/search-in-rotated-sorted-array-ii/
 # 
 # Follow up for "Search in Rotated Sorted Array":

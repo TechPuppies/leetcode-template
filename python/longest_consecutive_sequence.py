@@ -1,3 +1,4 @@
+# coding=utf-8
 # AC Rate: 28.0%
 # SOURCE URL: https://oj.leetcode.com/problems/longest-consecutive-sequence/
 # 

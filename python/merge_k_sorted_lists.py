@@ -1,11 +1,12 @@
 # coding=utf-8
 # AC Rate: 21.8%
 # SOURCE URL: https://oj.leetcode.com/problems/merge-k-sorted-lists/
-# 
-# 
-# Merge k sorted linked lists and return it as one sorted list. Analyze and describe its complexity.
-# 
-# 
+#
+#
+# Merge k sorted linked lists and return it as one sorted list. Analyze and des
+# cribe its complexity.
+#
+#
 
 
 # Definition for singly-linked list.

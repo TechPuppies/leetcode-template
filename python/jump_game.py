@@ -1,24 +1,26 @@
 # coding=utf-8
 # AC Rate: 27.2%
 # SOURCE URL: https://oj.leetcode.com/problems/jump-game/
-# 
-# 
-# Given an array of non-negative integers, you are initially positioned at the first index of the array.
-# 
-# 
-# Each element in the array represents your maximum jump length at that position. 
-# 
-# 
+#
+#
+# Given an array of non-negative integers, you are initially positioned at the
+# first index of the array.
+#
+#
+# Each element in the array represents your maximum jump length at that positio
+# n.
+#
+#
 # Determine if you are able to reach the last index.
-# 
-# 
+#
+#
 # For example:
 # A = [2,3,1,1,4], return true.
-# 
-# 
+#
+#
 # A = [3,2,1,0,4], return false.
-# 
-# 
+#
+#
 
 
 class Solution:

@@ -12,9 +12,9 @@
 // Given board =
 //
 // [
-// ["ABCE"],
-// ["SFCS"],
-// ["ADEE"]
+//   ["ABCE"],
+//   ["SFCS"],
+//   ["ADEE"]
 // ]
 //
 // word = "ABCCED", -> returns true,

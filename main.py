@@ -35,7 +35,7 @@ class DownloadThread(threading.Thread):
             content = subps.select('div.question-content')[0].text
             contents = content.replace('\r', '').split('\n')
             for line in contents:
-                line = line.strip()
+                line = line.rstrip()
                 res.extend(self._limit_line_length(line.encode('utf-8')))
 
             codes = re.findall(
@@ -68,7 +68,7 @@ class DownloadThread(threading.Thread):
             num = len(line) / limit
             for i in range(num+1):
                 new_line = line[i * (limit + 1):(i + 1) * (limit + 1)]
-                new_line = new_line.strip()
+                new_line = new_line.rstrip()
                 if new_line:
                     res.append(COMMENT_MARK + ' %s' % new_line)
             return res

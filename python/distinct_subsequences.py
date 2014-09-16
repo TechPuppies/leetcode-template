@@ -4,12 +4,12 @@
 #
 #
 # Given a string S and a string T, count the number of distinct subsequences of
-# T in S.
+#  T in S.
 #
 #
 # A subsequence of a string is a new string which is formed from the original s
 # tring by deleting some (can be none) of the characters without disturbing the
-# relative positions of the remaining characters. (ie, "ACE" is a subsequence
+#  relative positions of the remaining characters. (ie, "ACE" is a subsequence
 # of "ABCDE" while "AEC" is not).
 #
 #

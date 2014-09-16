@@ -12,15 +12,15 @@
 # There exist two distinct solutions to the 4-queens puzzle:
 #
 # [
-# [".Q..",  // Solution 1
-# "...Q",
-# "Q...",
-# "..Q."],
+#  [".Q..",  // Solution 1
+#   "...Q",
+#   "Q...",
+#   "..Q."],
 #
-# ["..Q.",  // Solution 2
-# "Q...",
-# "...Q",
-# ".Q.."]
+#  ["..Q.",  // Solution 2
+#   "Q...",
+#   "...Q",
+#   ".Q.."]
 # ]
 #
 #

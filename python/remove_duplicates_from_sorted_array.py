@@ -8,7 +8,7 @@
 # ppear only once and return the new length.
 #
 # Do not allocate extra space for another array, you must do this in place with
-# constant memory.
+#  constant memory.
 #
 #
 # For example,

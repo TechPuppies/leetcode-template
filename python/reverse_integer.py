@@ -17,7 +17,7 @@
 # a 32-bit integer, then the reverse of 1000000003 overflows. How should you ha
 # ndle such cases?
 # Throw an exception? Good, but what if throwing an exception is not an option?
-# You would then have to re-design the function (ie, add an extra parameter).
+#  You would then have to re-design the function (ie, add an extra parameter).
 #
 #
 

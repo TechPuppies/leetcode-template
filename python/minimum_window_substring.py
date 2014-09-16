@@ -21,7 +21,7 @@
 #
 #
 # If there are multiple such windows, you are guaranteed that there will always
-# be only one unique minimum window in S.
+#  be only one unique minimum window in S.
 #
 #
 

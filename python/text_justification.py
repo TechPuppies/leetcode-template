@@ -29,9 +29,9 @@
 # Return the formatted lines as:
 #
 # [
-# "This    is    an",
-# "example  of text",
-# "justification.  "
+#    "This    is    an",
+#    "example  of text",
+#    "justification.  "
 # ]
 #
 #

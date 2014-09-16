@@ -8,13 +8,13 @@
 // Below is one possible representation of s1 = "great":
 //
 //
-// great
-// /    \
-// gr    eat
-// / \    /  \
+//     great
+//    /    \
+//   gr    eat
+//  / \    /  \
 // g   r  e   at
-// / \
-// a   t
+//            / \
+//           a   t
 //
 //
 // To scramble the string, we may choose any non-leaf node and swap its two children.
@@ -23,13 +23,13 @@
 // For example, if we choose the node "gr" and swap its two children, it produces a scrambled string "rgeat".
 //
 //
-// rgeat
-// /    \
-// rg    eat
-// / \    /  \
+//     rgeat
+//    /    \
+//   rg    eat
+//  / \    /  \
 // r   g  e   at
-// / \
-// a   t
+//            / \
+//           a   t
 //
 //
 // We say that "rgeat" is a scrambled string of "great".
@@ -38,13 +38,13 @@
 // Similarly, if we continue to swap the children of nodes "eat" and "at", it produces a scrambled string "rgtae".
 //
 //
-// rgtae
-// /    \
-// rg    tae
-// / \    /  \
+//     rgtae
+//    /    \
+//   rg    tae
+//  / \    /  \
 // r   g  ta  e
-// / \
-// t   a
+//        / \
+//       t   a
 //
 //
 // We say that "rgtae" is a scrambled string of "great".

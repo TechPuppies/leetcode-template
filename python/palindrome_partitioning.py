@@ -4,7 +4,7 @@
 #
 #
 # Given a string s, partition s such that every substring of the partition is a
-# palindrome.
+#  palindrome.
 #
 #
 # Return all possible palindrome partitioning of s.
@@ -14,10 +14,10 @@
 #
 # Return
 #
-# [
-# ["aa","b"],
-# ["a","a","b"]
-# ]
+#   [
+#     ["aa","b"],
+#     ["a","a","b"]
+#   ]
 #
 #
 #

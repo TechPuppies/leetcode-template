@@ -1,4 +1,4 @@
-// AC Rate: 14.1%
+// AC Rate: 14.0%
 // SOURCE URL: https://oj.leetcode.com/problems/reverse-words-in-a-string/
 //
 //

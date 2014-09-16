@@ -7,7 +7,7 @@
 #
 #
 # The order of elements can be changed. It doesn't matter what you leave beyond
-# the new length.
+#  the new length.
 #
 #
 

@@ -39,10 +39,10 @@
 /**
  * Definition for binary tree
  * public class TreeNode {
- *     int val\u003B
- *     TreeNode left\u003B
- *     TreeNode right\u003B
- *     TreeNode(int x) { val = x\u003B left = null\u003B right = null\u003B }
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode(int x) { val = x; left = null; right = null; }
  * }
  */
 public class Solution {

@@ -1,4 +1,4 @@
-// AC Rate: 35.6%
+// AC Rate: 35.7%
 // SOURCE URL: https://oj.leetcode.com/problems/binary-tree-inorder-traversal/
 //
 // Given a binary tree, return the inorder traversal of its nodes' values.
@@ -42,10 +42,10 @@
 /**
  * Definition for binary tree
  * public class TreeNode {
- *     int val\u003B
- *     TreeNode left\u003B
- *     TreeNode right\u003B
- *     TreeNode(int x) { val = x\u003B }
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode(int x) { val = x; }
  * }
  */
 public class Solution {

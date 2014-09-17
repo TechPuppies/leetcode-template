@@ -1,5 +1,5 @@
 # coding=utf-8
-# AC Rate: 30.7%
+# AC Rate: 30.6%
 # SOURCE URL: https://oj.leetcode.com/problems/path-sum/
 #
 #

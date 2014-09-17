@@ -1,4 +1,4 @@
-// AC Rate: 45.9%
+// AC Rate: 46.0%
 // SOURCE URL: https://oj.leetcode.com/problems/single-number/
 //
 // Given an array of integers, every element appears twice except for one. Find that single one.

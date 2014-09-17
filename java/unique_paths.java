@@ -1,4 +1,4 @@
-// AC Rate: 31.5%
+// AC Rate: 31.6%
 // SOURCE URL: https://oj.leetcode.com/problems/unique-paths/
 //
 // A robot is located at the top-left corner of a m x n grid (marked 'Start' in the diagram below).

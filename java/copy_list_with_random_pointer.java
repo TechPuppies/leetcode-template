@@ -13,10 +13,10 @@
 /**
  * Definition for singly-linked list with a random pointer.
  * class RandomListNode {
- *     int label\u003B
- *     RandomListNode next, random\u003B
- *     RandomListNode(int x) { this.label = x\u003B }
- * }\u003B
+ *     int label;
+ *     RandomListNode next, random;
+ *     RandomListNode(int x) { this.label = x; }
+ * };
  */
 public class Solution {
     public RandomListNode copyRandomList(RandomListNode head) {

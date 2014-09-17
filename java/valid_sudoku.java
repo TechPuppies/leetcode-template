@@ -1,4 +1,4 @@
-// AC Rate: 27.9%
+// AC Rate: 28.0%
 // SOURCE URL: https://oj.leetcode.com/problems/valid-sudoku/
 //
 // Determine if a Sudoku is valid, according to: Sudoku Puzzles - The Rules.

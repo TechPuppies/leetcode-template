@@ -46,6 +46,8 @@ class DownloadThread(threading.Thread):
                 .replace('\u003E', '>')
                 .replace('\u003D', '=')
                 .replace('\u002D', '-')
+                .replace('\u0026', '&')
+                .replace('\u003B', ';')
                 .replace('\r', ''))
             pyfile.write('\n'.join(res))
 
@@ -66,7 +68,7 @@ class DownloadThread(threading.Thread):
         else:
             res = []
             num = len(line) / limit
-            for i in range(num+1):
+            for i in range(num + 1):
                 new_line = line[i * (limit + 1):(i + 1) * (limit + 1)]
                 new_line = new_line.rstrip()
                 if new_line:
@@ -77,11 +79,11 @@ class DownloadThread(threading.Thread):
 def main():
     global LANG, COMMENT_MARK, FILE_EXT
     msg = 'Please choose the programming'
-    msg += ' language you want to practice:\n1. Python\n2. Java\n'
+    msg += ' language you want to practice:\n1. Python\n2. Java\n3. C++\n'
     l = raw_input(msg)
 
-    while not l in ['1', '2']:
-        l = raw_input('Only 1 or 2 is allowed.')
+    while not l in ['1', '2', '3']:
+        l = raw_input('Only 1, 2 or 3 is allowed.')
 
     if l == '1' or l == 1:
         COMMENT_MARK = '#'
@@ -91,6 +93,10 @@ def main():
         COMMENT_MARK = '//'
         FILE_EXT = 'java'
         LANG = 'java'
+    elif l == '3' or l == 3:
+        COMMENT_MARK = '//'
+        FILE_EXT = 'cpp'
+        LANG = 'cpp'
     else:
         exit()
 

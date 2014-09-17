@@ -1,4 +1,4 @@
-// AC Rate: 23.6%
+// AC Rate: 23.7%
 // SOURCE URL: https://oj.leetcode.com/problems/recover-binary-search-tree/
 //
 //
@@ -32,10 +32,10 @@
 /**
  * Definition for binary tree
  * public class TreeNode {
- *     int val\u003B
- *     TreeNode left\u003B
- *     TreeNode right\u003B
- *     TreeNode(int x) { val = x\u003B }
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode(int x) { val = x; }
  * }
  */
 public class Solution {

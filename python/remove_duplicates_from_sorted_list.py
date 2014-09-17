@@ -1,5 +1,5 @@
 # coding=utf-8
-# AC Rate: 35.1%
+# AC Rate: 35.2%
 # SOURCE URL: https://oj.leetcode.com/problems/remove-duplicates-from-sorted-li
 # st/
 #

@@ -1,5 +1,5 @@
 # coding=utf-8
-# AC Rate: 26.0%
+# AC Rate: 25.9%
 # SOURCE URL: https://oj.leetcode.com/problems/n-queens/
 #
 # The n-queens puzzle is the problem of placing n queens on an n×n chessboard

@@ -1,5 +1,5 @@
 # coding=utf-8
-# AC Rate: 43.9%
+# AC Rate: 44.0%
 # SOURCE URL: https://oj.leetcode.com/problems/maximum-depth-of-binary-tree/
 #
 # Given a binary tree, find its maximum depth.

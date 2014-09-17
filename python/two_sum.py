@@ -1,5 +1,5 @@
 # coding=utf-8
-# AC Rate: 18.6%
+# AC Rate: 18.5%
 # SOURCE URL: https://oj.leetcode.com/problems/two-sum/
 #
 # Given an array of integers, find two numbers such that they add up to a speci

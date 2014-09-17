@@ -1,5 +1,5 @@
 # coding=utf-8
-# AC Rate: 30.4%
+# AC Rate: 30.3%
 # SOURCE URL: https://oj.leetcode.com/problems/combinations/
 #
 #

@@ -13,10 +13,10 @@
 /**
  * Definition for an interval.
  * public class Interval {
- *     int start\u003B
- *     int end\u003B
- *     Interval() { start = 0\u003B end = 0\u003B }
- *     Interval(int s, int e) { start = s\u003B end = e\u003B }
+ *     int start;
+ *     int end;
+ *     Interval() { start = 0; end = 0; }
+ *     Interval(int s, int e) { start = s; end = e; }
  * }
  */
 public class Solution {

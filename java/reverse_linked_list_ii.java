@@ -1,4 +1,4 @@
-// AC Rate: 26.1%
+// AC Rate: 26.0%
 // SOURCE URL: https://oj.leetcode.com/problems/reverse-linked-list-ii/
 //
 //
@@ -22,11 +22,11 @@
 /**
  * Definition for singly-linked list.
  * public class ListNode {
- *     int val\u003B
- *     ListNode next\u003B
+ *     int val;
+ *     ListNode next;
  *     ListNode(int x) {
- *         val = x\u003B
- *         next = null\u003B
+ *         val = x;
+ *         next = null;
  *     }
  * }
  */

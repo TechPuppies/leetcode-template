@@ -1,4 +1,4 @@
-// AC Rate: 25.4%
+// AC Rate: 25.3%
 // SOURCE URL: https://oj.leetcode.com/problems/edit-distance/
 //
 //

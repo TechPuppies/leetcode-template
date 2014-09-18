@@ -1,7 +1,6 @@
 Leetcode Template
 =================
 This is a crawler script for leetcode.
-(currently only support python and java )
 
 
 It generates code templates for you,

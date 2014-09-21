@@ -1,16 +1,9 @@
 # coding=utf-8
 # AC Rate: 23.3%
-# SOURCE URL: https://oj.leetcode.com/problems/copy-list-with-random-pointer/
-#
-#
-# A linked list is given such that each node contains an additional random poin
-# ter which could point to any node in the list or null.
-#
-#
-# Return a deep copy of the list.
-#
-#
+# https://oj.leetcode.com/problems/copy-list-with-random-pointer/
 
+# A linked list is given such that each node contains an additional random
+# Return a deep copy of the list.
 
 # Definition for singly-linked list with a random pointer.
 # class RandomListNode:

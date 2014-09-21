@@ -1,16 +1,15 @@
+// coding=utf-8
 // AC Rate: 29.1%
-// SOURCE URL: https://oj.leetcode.com/problems/palindrome-number/
-//
+// https://oj.leetcode.com/problems/palindrome-number/
+
 // Determine whether an integer is a palindrome. Do this without extra space.
 // click to show spoilers.
 // Some hints:
 // Could negative integers be palindromes? (ie, -1)
-// If you are thinking of converting the integer to string, note the restriction of using extra space.
-// You could also try reversing an integer. However, if you have solved the problem "Reverse Integer", you know that the reversed integer might overflow. How would you handle such case?
+// If you are thinking of converting the integer to string, note the restriction
+// You could also try reversing an integer. However, if you have solved the
+// problem "Reverse Integer", you know that the reversed integer might overflow.
 // There is a more generic way of solving this problem.
-//
-//
-
 
 class Solution {
 public:

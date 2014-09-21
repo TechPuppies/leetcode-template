@@ -1,16 +1,9 @@
 # coding=utf-8
 # AC Rate: 32.8%
-# SOURCE URL: https://oj.leetcode.com/problems/balanced-binary-tree/
-#
-# Given a binary tree, determine if it is height-balanced.
-#
-#
-# For this problem, a height-balanced binary tree is defined as a binary tree i
-# n which the depth of the two subtrees of every node never differ by more than
-#  1.
-#
-#
+# https://oj.leetcode.com/problems/balanced-binary-tree/
 
+# Given a binary tree, determine if it is height-balanced.
+# For this problem, a height-balanced binary tree is defined as a binary tree in
 
 # Definition for a  binary tree node
 # class TreeNode:

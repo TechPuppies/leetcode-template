@@ -1,31 +1,17 @@
 # coding=utf-8
 # AC Rate: 16.1%
-# SOURCE URL: https://oj.leetcode.com/problems/decode-ways/
-#
-#
-# A message containing letters from A-Z is being encoded to numbers using the f
-# ollowing mapping:
-#
-#
+# https://oj.leetcode.com/problems/decode-ways/
+
+# A message containing letters from A-Z is being encoded to numbers using the
 # 'A' -> 1
 # 'B' -> 2
 # ...
 # 'Z' -> 26
-#
-#
-# Given an encoded message containing digits, determine the total number of way
-# s to decode it.
-#
-#
+# Given an encoded message containing digits, determine the total number of ways
 # For example,
 # Given encoded message "12",
 # it could be decoded as "AB" (1 2) or "L" (12).
-#
-#
 # The number of ways decoding "12" is 2.
-#
-#
-
 
 class Solution:
     # @param s, a string

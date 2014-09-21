@@ -1,14 +1,10 @@
 # coding=utf-8
-# AC Rate: 26.5%
-# SOURCE URL: https://oj.leetcode.com/problems/construct-binary-tree-from-preor
-# der-and-inorder-traversal/
-#
+# AC Rate: 26.6%
+# https://oj.leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/
+
 # Given preorder and inorder traversal of a tree, construct the binary tree.
 # Note:
 # You may assume that duplicates do not exist in the tree.
-#
-#
-
 
 # Definition for a  binary tree node
 # class TreeNode:

@@ -1,12 +1,8 @@
 # coding=utf-8
 # AC Rate: 16.4%
-# SOURCE URL: https://oj.leetcode.com/problems/divide-two-integers/
-#
-#
-# Divide two integers without using multiplication, division and mod operator.
-#
-#
+# https://oj.leetcode.com/problems/divide-two-integers/
 
+# Divide two integers without using multiplication, division and mod operator.
 
 class Solution:
     # @return an integer

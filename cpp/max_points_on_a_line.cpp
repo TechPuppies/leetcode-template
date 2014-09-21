@@ -1,9 +1,8 @@
+// coding=utf-8
 // AC Rate: 11.0%
-// SOURCE URL: https://oj.leetcode.com/problems/max-points-on-a-line/
-//
-// Given n points on a 2D plane, find the maximum number of points that lie on the same straight line.
-//
+// https://oj.leetcode.com/problems/max-points-on-a-line/
 
+// Given n points on a 2D plane, find the maximum number of points that lie on the
 
 /**
  * Definition for a point.

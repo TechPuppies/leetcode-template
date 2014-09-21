@@ -1,15 +1,9 @@
 # coding=utf-8
-# AC Rate: 42.2%
-# SOURCE URL: https://oj.leetcode.com/problems/same-tree/
-#
-#
-# Given two binary trees, write a function to check if they are equal or not.
-#
-# Two binary trees are considered equal if they are structurally identical and
-# the nodes have the same value.
-#
-#
+# AC Rate: 42.1%
+# https://oj.leetcode.com/problems/same-tree/
 
+# Given two binary trees, write a function to check if they are equal or not.
+# Two binary trees are considered equal if they are structurally identical and
 
 # Definition for a  binary tree node
 # class TreeNode:

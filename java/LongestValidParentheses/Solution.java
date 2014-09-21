@@ -5,7 +5,7 @@
 // For "(()", the longest valid parentheses substring is "()", which has length =
 // Another example is ")()())", where the longest valid parentheses substring is
 
-import java.util.*
+import java.util.*;
 
 public class Solution {
     public int longestValidParentheses(String s) {

@@ -16,7 +16,7 @@
 // If no valid conversion could be performed, a zero value is returned. If the
 // correct value is out of the range of representable values, INT_MAX (2147483647)
 
-import java.util.*
+import java.util.*;
 
 public class Solution {
     public int atoi(String str) {

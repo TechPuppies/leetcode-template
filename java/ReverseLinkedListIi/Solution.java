@@ -9,7 +9,7 @@
 // Given m, n satisfy the following condition:
 // 1 ≤ m ≤ n ≤ length of list.
 
-import java.util.*
+import java.util.*;
 
 /**
  * Definition for singly-linked list.

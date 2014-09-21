@@ -8,7 +8,7 @@
 // dict = ["cat", "cats", "and", "sand", "dog"].
 // A solution is ["cats and dog", "cat sand dog"].
 
-import java.util.*
+import java.util.*;
 
 public class Solution {
     public List<String> wordBreak(String s, Set<String> dict) {

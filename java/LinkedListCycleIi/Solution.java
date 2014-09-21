@@ -5,7 +5,7 @@
 // Follow up:
 // Can you solve it without using extra space?
 
-import java.util.*
+import java.util.*;
 
 /**
  * Definition for singly-linked list.

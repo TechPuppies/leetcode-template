@@ -9,7 +9,7 @@
 // 3,2,1 → 1,2,3
 // 1,1,5 → 1,5,1
 
-import java.util.*
+import java.util.*;
 
 public class Solution {
     public void nextPermutation(int[] num) {

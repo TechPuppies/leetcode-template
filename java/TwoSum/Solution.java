@@ -8,7 +8,7 @@
 // Input: numbers={2, 7, 11, 15}, target=9
 // Output: index1=1, index2=2
 
-import java.util.*
+import java.util.*;
 
 public class Solution {
     public int[] twoSum(int[] numbers, int target) {

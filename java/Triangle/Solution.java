@@ -13,7 +13,7 @@
 // Note:
 // Bonus point if you are able to do this using only O(n) extra space, where n is
 
-import java.util.*
+import java.util.*;
 
 public class Solution {
     public int minimumTotal(List<List<Integer>> triangle) {

@@ -25,7 +25,7 @@
 // Hints:
 // If you notice carefully in the flattened tree, each node's right child points
 
-import java.util.*
+import java.util.*;
 
 /**
  * Definition for binary tree

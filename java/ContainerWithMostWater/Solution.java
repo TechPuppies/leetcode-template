@@ -6,7 +6,7 @@
 // line i is at (i, ai) and (i, 0). Find two lines, which together with x-axis
 // Note: You may not slant the container.
 
-import java.util.*
+import java.util.*;
 
 public class Solution {
     public int maxArea(int[] height) {

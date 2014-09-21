@@ -9,7 +9,7 @@
 // S = "rabbbit", T = "rabbit"
 // Return 3.
 
-import java.util.*
+import java.util.*;
 
 public class Solution {
     public int numDistinct(String S, String T) {

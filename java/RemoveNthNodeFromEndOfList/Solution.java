@@ -9,7 +9,7 @@
 // Given n will always be valid.
 // Try to do this in one pass.
 
-import java.util.*
+import java.util.*;
 
 /**
  * Definition for singly-linked list.

@@ -6,7 +6,7 @@
 // Would this affect the run-time complexity? How and why?
 // Write a function to determine if a given target is in the array.
 
-import java.util.*
+import java.util.*;
 
 public class Solution {
     public boolean search(int[] A, int target) {

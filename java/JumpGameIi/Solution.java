@@ -8,7 +8,7 @@
 // Given array A = [2,3,1,1,4]
 // The minimum number of jumps to reach the last index is 2. (Jump 1 step from
 
-import java.util.*
+import java.util.*;
 
 public class Solution {
     public int jump(int[] A) {

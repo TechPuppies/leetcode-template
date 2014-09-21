@@ -7,7 +7,7 @@
 // Children with a higher rating get more candies than their neighbors.
 // What is the minimum candies you must give?
 
-import java.util.*
+import java.util.*;
 
 public class Solution {
     public int candy(int[] ratings) {

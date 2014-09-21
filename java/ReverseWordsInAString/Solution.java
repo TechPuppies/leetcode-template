@@ -14,7 +14,7 @@
 // How about multiple spaces between two words?
 // Reduce them to a single space in the reversed string.
 
-import java.util.*
+import java.util.*;
 
 public class Solution {
     public String reverseWords(String s) {

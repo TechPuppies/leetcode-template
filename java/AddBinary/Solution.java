@@ -7,7 +7,7 @@
 // b = "1"
 // Return "100".
 
-import java.util.*
+import java.util.*;
 
 public class Solution {
     public String addBinary(String a, String b) {

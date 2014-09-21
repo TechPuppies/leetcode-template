@@ -12,7 +12,7 @@
 // it could be decoded as "AB" (1 2) or "L" (12).
 // The number of ways decoding "12" is 2.
 
-import java.util.*
+import java.util.*;
 
 public class Solution {
     public int numDecodings(String s) {

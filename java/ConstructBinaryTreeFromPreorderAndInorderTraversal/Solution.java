@@ -5,7 +5,7 @@
 // Note:
 // You may assume that duplicates do not exist in the tree.
 
-import java.util.*
+import java.util.*;
 
 /**
  * Definition for binary tree

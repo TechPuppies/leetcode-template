@@ -19,7 +19,7 @@
 //      / \    \
 //     4-> 5 -> 7 -> NULL
 
-import java.util.*
+import java.util.*;
 
 /**
  * Definition for binary tree with next pointer.

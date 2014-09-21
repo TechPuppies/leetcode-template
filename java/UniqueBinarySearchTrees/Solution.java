@@ -10,7 +10,7 @@
 //     /     /       \                 \
 //    2     1         2                 3
 
-import java.util.*
+import java.util.*;
 
 public class Solution {
     public int numTrees(int n) {

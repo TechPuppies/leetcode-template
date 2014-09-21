@@ -3,7 +3,7 @@
 
 // Given a singly linked list where elements are sorted in ascending order,
 
-import java.util.*
+import java.util.*;
 
 /**
  * Definition for singly-linked list.

@@ -14,7 +14,7 @@
 // X X X X
 // X O X X
 
-import java.util.*
+import java.util.*;
 
 public class Solution {
     public void solve(char[][] board) {

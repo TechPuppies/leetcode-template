@@ -24,7 +24,7 @@
 //      5
 // The above binary tree is serialized as "{1,2,3,#,#,4,#,#,5}".
 
-import java.util.*
+import java.util.*;
 
 /**
  * Definition for binary tree

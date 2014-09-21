@@ -7,7 +7,7 @@
 // Note:
 // A valid Sudoku board (partially filled) is not necessarily solvable. Only the
 
-import java.util.*
+import java.util.*;
 
 public class Solution {
     public boolean isValidSudoku(char[][] board) {

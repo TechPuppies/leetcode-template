@@ -6,7 +6,7 @@
 // transactions as you like (ie, buy one and sell one share of the stock multiple
 // times). However, you may not engage in multiple transactions at the same time
 
-import java.util.*
+import java.util.*;
 
 public class Solution {
     public int maxProfit(int[] prices) {

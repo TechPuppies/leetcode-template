@@ -3,7 +3,7 @@
 
 // Implement pow(x, n).
 
-import java.util.*
+import java.util.*;
 
 public class Solution {
     public double pow(double x, int n) {

@@ -5,7 +5,7 @@
 // Empty cells are indicated by the character '.'.
 // You may assume that there will be only one unique solution.
 
-import java.util.*
+import java.util.*;
 
 public class Solution {
     public void solveSudoku(char[][] board) {

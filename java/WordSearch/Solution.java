@@ -15,7 +15,7 @@
 // word = "SEE", -> returns true,
 // word = "ABCB", -> returns false.
 
-import java.util.*
+import java.util.*;
 
 public class Solution {
     public boolean exist(char[][] board, String word) {

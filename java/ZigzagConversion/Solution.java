@@ -11,7 +11,7 @@
 // string convert(string text, int nRows);
 // convert("PAYPALISHIRING", 3) should return "PAHNAPLSIIGYIR".
 
-import java.util.*
+import java.util.*;
 
 public class Solution {
     public String convert(String s, int nRows) {

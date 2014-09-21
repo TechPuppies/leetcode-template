@@ -4,7 +4,7 @@
 // A linked list is given such that each node contains an additional random
 // Return a deep copy of the list.
 
-import java.util.*
+import java.util.*;
 
 /**
  * Definition for singly-linked list with a random pointer.

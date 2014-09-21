@@ -8,7 +8,7 @@
 // Above is a 3 x 7 grid. How many possible unique paths are there?
 // Note: m and n will be at most 100.
 
-import java.util.*
+import java.util.*;
 
 public class Solution {
     public int uniquePaths(int m, int n) {

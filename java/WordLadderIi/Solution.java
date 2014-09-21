@@ -18,7 +18,7 @@
 // All words have the same length.
 // All words contain only lowercase alphabetic characters.
 
-import java.util.*
+import java.util.*;
 
 public class Solution {
     public List<List<String>> findLadders(String start, String end, Set<String> dict) {

@@ -6,7 +6,7 @@
 // Follow up:
 // Could you do this in-place?
 
-import java.util.*
+import java.util.*;
 
 public class Solution {
     public void rotate(int[][] matrix) {

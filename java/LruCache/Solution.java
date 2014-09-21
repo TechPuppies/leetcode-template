@@ -6,7 +6,7 @@
 // set(key, value) - Set or insert the value if the key is not already present.
 // When the cache reached its capacity, it should invalidate the least recently
 
-import java.util.*
+import java.util.*;
 
 public class LRUCache {
     

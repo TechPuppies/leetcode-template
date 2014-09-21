@@ -7,7 +7,7 @@
 // For example,
 // Given {1,2,3,4}, reorder it to {1,4,2,3}.
 
-import java.util.*
+import java.util.*;
 
 /**
  * Definition for singly-linked list.

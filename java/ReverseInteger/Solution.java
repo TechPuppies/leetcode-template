@@ -12,7 +12,7 @@
 // 32-bit integer, then the reverse of 1000000003 overflows. How should you handle
 // Throw an exception? Good, but what if throwing an exception is not an option?
 
-import java.util.*
+import java.util.*;
 
 public class Solution {
     public int reverse(int x) {

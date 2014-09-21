@@ -8,7 +8,7 @@
 // Given height = [2,1,5,6,2,3],
 // return 10.
 
-import java.util.*
+import java.util.*;
 
 public class Solution {
     public int largestRectangleArea(int[] height) {

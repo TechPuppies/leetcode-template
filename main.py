@@ -107,7 +107,7 @@ class JavaDownload(Download):
     def get_code(self):
         res = super(JavaDownload, self).get_code()
         res.insert(0, '')  # empty line
-        res.insert(0, 'import java.util.*')
+        res.insert(0, 'import java.util.*;')
         return res
 
 class CppDownload(Download):

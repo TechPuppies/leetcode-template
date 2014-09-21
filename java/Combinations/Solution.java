@@ -13,7 +13,7 @@
 //   [1,4],
 // ]
 
-import java.util.*
+import java.util.*;
 
 public class Solution {
     public List<List<Integer>> combine(int n, int k) {

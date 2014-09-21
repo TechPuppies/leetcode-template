@@ -9,7 +9,7 @@
 // You should return the indices: [0,9].
 // (order does not matter).
 
-import java.util.*
+import java.util.*;
 
 public class Solution {
     public List<Integer> findSubstring(String S, String[] L) {

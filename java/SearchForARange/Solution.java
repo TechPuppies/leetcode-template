@@ -8,7 +8,7 @@
 // Given [5, 7, 7, 8, 8, 10] and target value 8,
 // return [3, 4].
 
-import java.util.*
+import java.util.*;
 
 public class Solution {
     public int[] searchRange(int[] A, int target) {

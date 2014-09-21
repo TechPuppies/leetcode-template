@@ -6,7 +6,7 @@
 // Note:
 // You may not engage in multiple transactions at the same time (ie, you must sell
 
-import java.util.*
+import java.util.*;
 
 public class Solution {
     public int maxProfit(int[] prices) {

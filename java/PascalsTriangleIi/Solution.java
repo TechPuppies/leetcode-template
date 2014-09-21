@@ -7,7 +7,7 @@
 // Note:
 // Could you optimize your algorithm to use only O(k) extra space?
 
-import java.util.*
+import java.util.*;
 
 public class Solution {
     public List<Integer> getRow(int rowIndex) {

@@ -7,7 +7,7 @@
 // dict = ["leet", "code"].
 // Return true because "leetcode" can be segmented as "leet code".
 
-import java.util.*
+import java.util.*;
 
 public class Solution {
     public boolean wordBreak(String s, Set<String> dict) {

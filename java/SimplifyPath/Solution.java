@@ -12,7 +12,7 @@
 // Another corner case is the path might contain multiple slashes '/' together,
 // In this case, you should ignore redundant slashes and return "/home/foo".
 
-import java.util.*
+import java.util.*;
 
 public class Solution {
     public String simplifyPath(String path) {

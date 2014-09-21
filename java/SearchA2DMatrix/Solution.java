@@ -13,7 +13,7 @@
 // ]
 // Given target = 3, return true.
 
-import java.util.*
+import java.util.*;
 
 public class Solution {
     public boolean searchMatrix(int[][] matrix, int target) {

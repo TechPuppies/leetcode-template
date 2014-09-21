@@ -9,7 +9,7 @@
 // Given an integer n, generate the nth sequence.
 // Note: The sequence of integers will be represented as a string.
 
-import java.util.*
+import java.util.*;
 
 public class Solution {
     public String countAndSay(int n) {

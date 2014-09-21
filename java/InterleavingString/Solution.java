@@ -9,7 +9,7 @@
 // When s3 = "aadbbcbcac", return true.
 // When s3 = "aadbbbaccc", return false.
 
-import java.util.*
+import java.util.*;
 
 public class Solution {
     public boolean isInterleave(String s1, String s2, String s3) {

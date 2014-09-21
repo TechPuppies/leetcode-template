@@ -10,7 +10,7 @@
 // problem "Reverse Integer", you know that the reversed integer might overflow.
 // There is a more generic way of solving this problem.
 
-import java.util.*
+import java.util.*;
 
 public class Solution {
     public boolean isPalindrome(int x) {

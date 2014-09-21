@@ -6,7 +6,7 @@
 // Given [1,3],[2,6],[8,10],[15,18],
 // return [1,6],[8,10],[15,18].
 
-import java.util.*
+import java.util.*;
 
 /**
  * Definition for an interval.

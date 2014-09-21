@@ -8,7 +8,7 @@
 // More practice:
 // If you have figured out the O(n) solution, try coding another solution using
 
-import java.util.*
+import java.util.*;
 
 public class Solution {
     public int maxSubArray(int[] A) {

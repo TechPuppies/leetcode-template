@@ -8,7 +8,7 @@
 // Note:
 // The solution is guaranteed to be unique.
 
-import java.util.*
+import java.util.*;
 
 public class Solution {
     public int canCompleteCircuit(int[] gas, int[] cost) {

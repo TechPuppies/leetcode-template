@@ -9,7 +9,7 @@
 // Have you consider that the string might be empty? This is a good question to
 // For the purpose of this problem, we define empty string as valid palindrome.
 
-import java.util.*
+import java.util.*;
 
 public class Solution {
     public boolean isPalindrome(String s) {

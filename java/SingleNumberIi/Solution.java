@@ -5,7 +5,7 @@
 // Note:
 // Your algorithm should have a linear runtime complexity. Could you implement it
 
-import java.util.*
+import java.util.*;
 
 public class Solution {
     public int singleNumber(int[] A) {

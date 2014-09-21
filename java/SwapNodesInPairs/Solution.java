@@ -6,7 +6,7 @@
 // Given 1->2->3->4, you should return the list as 2->1->4->3.
 // Your algorithm should use only constant space. You may not modify the values in
 
-import java.util.*
+import java.util.*;
 
 /**
  * Definition for singly-linked list.

@@ -14,7 +14,7 @@
 // [2, 6]
 // [1, 1, 6]
 
-import java.util.*
+import java.util.*;
 
 public class Solution {
     public List<List<Integer>> combinationSum2(int[] num, int target) {

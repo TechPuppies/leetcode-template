@@ -5,7 +5,7 @@
 // characters. For example, the longest substring without repeating letters for
 // "abcabcbb" is "abc", which the length is 3. For "bbbbb" the longest substring
 
-import java.util.*
+import java.util.*;
 
 public class Solution {
     public int lengthOfLongestSubstring(String s) {

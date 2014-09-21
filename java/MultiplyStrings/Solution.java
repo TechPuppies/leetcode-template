@@ -4,7 +4,7 @@
 // Given two numbers represented as strings, return multiplication of the numbers
 // Note: The numbers can be arbitrarily large and are non-negative.
 
-import java.util.*
+import java.util.*;
 
 public class Solution {
     public String multiply(String num1, String num2) {

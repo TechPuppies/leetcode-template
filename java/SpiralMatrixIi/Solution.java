@@ -11,7 +11,7 @@
 //  [ 7, 6, 5 ]
 // ]
 
-import java.util.*
+import java.util.*;
 
 public class Solution {
     public int[][] generateMatrix(int n) {

@@ -8,7 +8,7 @@
 // Given s = "Hello World",
 // return 5.
 
-import java.util.*
+import java.util.*;
 
 public class Solution {
     public int lengthOfLastWord(String s) {

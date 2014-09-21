@@ -18,7 +18,7 @@
 //   ".Q.."]
 // ]
 
-import java.util.*
+import java.util.*;
 
 public class Solution {
     public List<String[]> solveNQueens(int n) {

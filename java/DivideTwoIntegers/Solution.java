@@ -3,7 +3,7 @@
 
 // Divide two integers without using multiplication, division and mod operator.
 
-import java.util.*
+import java.util.*;
 
 public class Solution {
     public int divide(int dividend, int divisor) {

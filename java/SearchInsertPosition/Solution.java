@@ -9,7 +9,7 @@
 // [1,3,5,6], 7 → 4
 // [1,3,5,6], 0 → 0
 
-import java.util.*
+import java.util.*;
 
 public class Solution {
     public int searchInsert(int[] A, int target) {

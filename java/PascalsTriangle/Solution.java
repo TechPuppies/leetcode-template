@@ -12,7 +12,7 @@
 //  [1,4,6,4,1]
 // ]
 
-import java.util.*
+import java.util.*;
 
 public class Solution {
     public List<List<Integer>> generate(int numRows) {

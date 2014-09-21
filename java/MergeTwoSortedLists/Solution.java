@@ -3,7 +3,7 @@
 
 // Merge two sorted linked lists and return it as a new list. The new list should
 
-import java.util.*
+import java.util.*;
 
 /**
  * Definition for singly-linked list.

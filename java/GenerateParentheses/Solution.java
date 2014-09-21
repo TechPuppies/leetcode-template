@@ -5,7 +5,7 @@
 // For example, given n = 3, a solution set is:
 // "((()))", "(()())", "(())()", "()(())", "()()()"
 
-import java.util.*
+import java.util.*;
 
 public class Solution {
     public List<String> generateParenthesis(int n) {

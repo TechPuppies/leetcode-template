@@ -7,7 +7,7 @@
 // b) Delete a character
 // c) Replace a character
 
-import java.util.*
+import java.util.*;
 
 public class Solution {
     public int minDistance(String word1, String word2) {
